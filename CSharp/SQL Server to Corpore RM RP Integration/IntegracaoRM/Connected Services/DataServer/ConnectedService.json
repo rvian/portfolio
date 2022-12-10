@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "{SERVER}/wsDataServer/MEX?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, DataServer"
+    ],
+    "targetFramework": "net5.0",
+    "typeReuseMode": "All"
+  }
+}
