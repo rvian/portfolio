@@ -11,4 +11,4 @@ salvos em uma planilha para que fosse possível editar e gerar novamente este do
 
 
 
-Dedicado a Jackson Carreiro, que descanse em paz.
+Dedicado a Jackson Carreiro Varão, que descanse em paz.
